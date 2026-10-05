@@ -10,7 +10,7 @@ def data_type(value):
         value (any): The value to determine the data type of
 
     Returns:
-        str: The data type of the value as a string
+        str: The data type of the value as a string erw4teyer
     """
     return type(value).__name__
 
